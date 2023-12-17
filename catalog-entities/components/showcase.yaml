@@ -21,7 +21,7 @@ metadata:
 spec:
   type: website
   system: rhdh-idp
-  owner: rh1-apac-authors
+  owner: bala
   lifecycle: production
   dependsOn:
     - resource:pgdb
