@@ -20,8 +20,8 @@ metadata:
     sonarqube.org/project-key: janus-idp_backstage-showcase
 spec:
   type: website
-  system: rhdh-idp
-  owner: rh1-authors
+  system: janus-idp
+  owner: janus-authors
   lifecycle: production
   dependsOn:
     - resource:pgdb
