@@ -1,0 +1,10 @@
+---
+# https://backstage.io/docs/features/software-catalog/descriptor-format#kind-group
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: rh1-authors
+  title: RH1-IDP Authors
+spec:
+  type: team
+  children: []
