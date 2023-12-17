@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: rhdh-idp
+  title: RHDH-IDP
+spec:
+  owner: rh1-authors
