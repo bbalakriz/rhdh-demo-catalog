@@ -6,3 +6,4 @@ metadata:
 spec:
   targets:
     - ./systems/janus-idp.yaml
+    - ./systems/rhdh-idp.yaml    
