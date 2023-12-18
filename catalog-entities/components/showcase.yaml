@@ -2,13 +2,13 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: dynamic-wrapper-plugin-showcase
-  title: RH1 Dynamic Frontend Wrapper Showcase
+  title: RH1 Dynamic Frontend Wrapper
   description: |
     This is a simple showcase of dynamic frontend wrapper on RHDH.
   links:
     - title: RHDH Developer Website
       url: https://developers.redhat.com/rhdh
-    - title: RHDH wrapper plugin Showcase
+    - title: RHDH frontend wrapper plugin
       url: https://showcase.janus-idp.io/
   annotations:
     argocd/app-name: 'janus-idp'
